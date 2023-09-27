@@ -123,13 +123,10 @@ zstyle ':completion:*' menu select
 zmodload zsh/complist
 compinit
 _comp_options+=(globdots)          #hidden files
-#alias notification
-source ~/zsh-you-should-use/you-should-use.plugin.zsh
 
 #autosuggestions
-source ~/.config/zsh-autosuggestions/zsh-autosuggestions.zsh
-
+source ~/.configs/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 
 #syntax highlighting    always last command
-source ~/.config/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
+source ~/.configs/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
