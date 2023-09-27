@@ -5,6 +5,7 @@ apt install exa
 apt install bat 
 apt install fzf
 apt install vim 
+apt install tmux 
 
 #dot files path
 mv .zshrc ~
