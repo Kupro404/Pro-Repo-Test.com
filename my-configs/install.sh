@@ -1,11 +1,7 @@
 #!/bin/bash
 
 #useful tools
-apt install exa
-apt install bat 
-apt install fzf
-apt install vim 
-apt install tmux 
+apt install exa bat fzf vim tmux zsh -y
 
 #dot files path
 mv .zshrc ~
