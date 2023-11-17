@@ -101,7 +101,6 @@ ZSH_THEME="sunaku"
  alias l=exa
  alias bat=batcat
  alias fd=fdfind
- alias ..=cd ..
  alias ...=cd ../..
  alias .3=cd ../../..
  alias .4=cd ../../../..
