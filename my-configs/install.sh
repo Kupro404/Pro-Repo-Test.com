@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt update && apt upgrade
+apt update && apt upgrade -y
 
 #useful tools
 apt install -y exa bat fzf vim tmux zsh 
