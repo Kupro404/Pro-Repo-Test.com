@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 
 #useful tools
-apt install -y exa bat fzf vim tmux zsh 
+apt install -y exa bat fzf vim tmux zsh htop 
 
 #dot files path
 mv .zshrc ~
