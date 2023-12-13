@@ -99,6 +99,7 @@ ZSH_THEME="sunaku"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
  alias c=clear 
  alias l=exa
+ alias ll='l -la'
  alias bat=batcat
  alias fd=fdfind
  alias ...=cd ../..
